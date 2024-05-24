@@ -32,7 +32,7 @@ namespace EmployeeApplication
 
             m.computeSalary(totalhoursWorked ,rateperHour);
      
-
+            //comment//
             label9.Text = textBox1.Text;
             label10.Text = textBox2.Text;
             label12.Text = Convert.ToString(m.getSalary());
